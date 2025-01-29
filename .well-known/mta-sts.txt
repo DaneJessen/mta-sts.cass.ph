@@ -1,5 +1,5 @@
 version: STSv1
 mode: testing
-mx: cegiusa-com.mail.protection.outlook.com
-mx: m365-cegiusa-com.mail.protection.outlook.com
+mx: cass-ph.mail.protection.outlook.com
+mx: m365-cass-ph.mail.protection.outlook.com
 max_age: 1209600
